@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @skeletknight
-- 👀 I’m interested in game developing
 - 🌱 I’m currently learning c++ and python and java
 
 <!---
